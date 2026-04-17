@@ -2,7 +2,7 @@
 diabetes-risk
 Here is a **professional, GitHub-ready README.md** tailored directly from your uploaded reports and code:
 
----
+
 
 # 🩺 Machine Learning Models for Predicting Diabetes Risk Using Routine Population Health Indicators
 
@@ -17,7 +17,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 
 
 
----
+
 
 ## 🎯 Objectives
 
@@ -49,7 +49,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 
 ⚠️ Note: Data is self-reported → possible misclassification bias
 
----
+
 
 ## ⚙️ Methodology
 
@@ -74,7 +74,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Stratified K-Fold Cross-Validation
 * Hyperparameter tuning using RandomizedSearchCV
 
----
+
 
 ## 📈 Results
 
@@ -93,7 +93,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * False Negatives: 1,922
 * True Positives: 5,147
 
----
+
 
 ## 🧠 Clinical Interpretation
 
@@ -116,7 +116,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 👉 Best suited as a **screening tool**, not a diagnostic system
 👉 Should be followed by **clinical/lab confirmation**
 
----
+
 
 ## 📊 Visualizations
 
@@ -125,7 +125,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 
 *(Add images here if uploading to GitHub)*
 
----
+
 
 ## 💻 Technologies Used
 
@@ -136,7 +136,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Matplotlib
 * Seaborn
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -151,10 +151,10 @@ cd diabetes-risk-ml
 pip install -r requirements.txt
 
 # Run notebook
-jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
+ notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 ```
 
----
+
 
 ## 🎥 Project Presentation
 
@@ -162,7 +162,7 @@ jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 
 *(Replace this with your video link before submission)*
 
----
+
 
 ## 👥 Contributors
 
@@ -176,7 +176,7 @@ jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 
   * Literature review, methodology support, report writing
 
----
+
 
 ## 📚 References
 
@@ -187,7 +187,7 @@ jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 5. Yu et al., Diabetes Prediction using ML, 2020
 6. Kavakiotis et al., ML in Diabetes Research, 2017
 
----
+
 
 ## ⚠️ Limitations
 
@@ -195,7 +195,7 @@ jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 * Class imbalance affects precision
 * Not a substitute for clinical diagnosis
 
----
+
 
 ## 🔮 Future Work
 
@@ -203,13 +203,13 @@ jupyter notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
 * Incorporate additional clinical data
 * Deploy as a web-based decision support tool
 
----
+
 
 ## ⭐ Acknowledgment
 
 This project was developed as part of an **AI in Healthcare / Health Informatics course**, focusing on real-world clinical applications of machine learning.
 
----
+
 
 
 
