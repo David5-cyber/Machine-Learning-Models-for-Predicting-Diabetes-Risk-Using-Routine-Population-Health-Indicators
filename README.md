@@ -1,8 +1,3 @@
-# Machine-Learning-Models-for-Predicting-Diabetes-Risk-Using-Routine-Population-Health-Indicators
-diabetes-risk
-Here is a **professional, GitHub-ready README.md** tailored directly from your uploaded reports and code:
-
-
 
 # 🩺 Machine Learning Models for Predicting Diabetes Risk Using Routine Population Health Indicators
 
@@ -26,7 +21,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Prioritize **recall and ROC-AUC** for clinical relevance
 * Support **clinical decision-making and public health screening**
 
----
+
 
 ## 📊 Dataset
 
@@ -69,12 +64,6 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Random Forest
 * Gradient Boosting
 
-### 🔹 Validation
-
-* Stratified K-Fold Cross-Validation
-* Hyperparameter tuning using RandomizedSearchCV
-
-
 
 ## 📈 Results
 
@@ -94,7 +83,6 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * True Positives: 5,147
 
 
-
 ## 🧠 Clinical Interpretation
 
 * ✅ **High Recall (73%)**
@@ -110,21 +98,12 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * ✅ **Low False Negatives**
 
   * Few missed cases → clinically important
+    
 
 ### 🏥 Conclusion:
 
 👉 Best suited as a **screening tool**, not a diagnostic system
 👉 Should be followed by **clinical/lab confirmation**
-
-
-
-## 📊 Visualizations
-
-* ROC Curve (AUC = 0.819)
-* Confusion Matrix
-
-*(Add images here if uploading to GitHub)*
-
 
 
 ## 💻 Technologies Used
@@ -135,38 +114,26 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Scikit-learn
 * Matplotlib
 * Seaborn
+  
 
+## 🚀 How to Run the Project (Google Colab)
+•	Open Google Colab and upload or open the notebook (AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb)
 
+•	Install required libraries (if needed) using !pip install pandas numpy scikit-learn matplotlib seaborn
 
-## 🚀 How to Run the Project
+•	Upload the dataset and ensure the file path matches the code
 
-```bash
-# Clone repository
-git clone https://github.com/your-username/diabetes-risk-ml.git
+•	Run all cells to generate model results, confusion matrix, and ROC curve
 
-# Navigate into project folder
-cd diabetes-risk-ml
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebook
- notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
-```
 
 
 
 ## 🎥 Project Presentation
 
-👉 **[Insert Presentation Recording Link Here]**
-
-*(Replace this with your video link before submission)*
-
+👉 Link to youtube video[https://youtu.be/_4_HQgG4FYk]
 
 
 ## 👥 Contributors
-
-**Group 7**
 
 * David Blemano
 
@@ -175,18 +142,6 @@ pip install -r requirements.txt
 * Benjamin Asomaning
 
   * Literature review, methodology support, report writing
-
-
-
-## 📚 References
-
-1. World Health Organization. Global Report on Diabetes, 2016
-2. American Diabetes Association. Standards of Care, 2024
-3. Breiman, L. Random Forests, 2001
-4. Friedman, J. Gradient Boosting Machine, 2001
-5. Yu et al., Diabetes Prediction using ML, 2020
-6. Kavakiotis et al., ML in Diabetes Research, 2017
-
 
 
 ## ⚠️ Limitations
