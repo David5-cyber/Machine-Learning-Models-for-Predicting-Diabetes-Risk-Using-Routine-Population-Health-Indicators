@@ -13,8 +13,11 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 ## 🎯 Objectives
 
 * Predict diabetes risk using routine health indicators
+  
 * Compare performance of multiple machine learning models
+  
 * Prioritize recall and ROC-AUC for clinical relevance
+  
 * Support clinical decision-making and public health screening
 
 
