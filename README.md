@@ -1,5 +1,5 @@
 
-# 🩺 Machine Learning Models for Predicting Diabetes Risk Using Routine Population Health Indicators
+#  Machine Learning Models for Predicting Diabetes Risk Using Routine Population Health Indicators
 
 ## 📌 Project Overview
 
